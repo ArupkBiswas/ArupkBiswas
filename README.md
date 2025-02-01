@@ -1,5 +1,6 @@
 ### Hi, I'm Arup! 👋
-
+---
+Full Stack Developer experienced in designing and developing microservices and back-end development. Proficient in database management and skilled in building front-end applications using JavaScript frameworks, with a strong focus on React.js. Experienced in working in cross-functional, agile teams.
 <!--
 **ArupkBiswas/ArupkBiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
