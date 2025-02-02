@@ -1,8 +1,8 @@
-### Hi, I'm Arup!! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30" height="30">
+### Hi, I'm Arup!! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30" height="30" />
 
 ---
 <p>Welcome to my page </br> 
-I am a Full-Stack from ![image](https://github.com/user-attachments/assets/4ec4be2b-69ad-4218-aed0-1ae0f441a4d7)
+I am a Full-Stack from  <img src="https://tenor.com/view/india-flags-joypixels-flag-of-india-indian-flag-gif-17380574" width="30" height="30"/>
 </p>
 
 <!--
