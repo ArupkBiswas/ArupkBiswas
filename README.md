@@ -2,7 +2,7 @@
 
 ---
 <p>Welcome to my page </br> 
-I am a Full-Stack from  <img src="https://tenor.com/view/india-flags-joypixels-flag-of-india-indian-flag.gif" width="30" height="30"/>
+I am a Full-Stack from Bangalore, India <img src="https://cdn-icons-png.flaticon.com/256/16022/16022214.png" />
 </p>
 
 <!--
