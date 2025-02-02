@@ -1,7 +1,10 @@
 ### Hi, I'm Arup!! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30" height="30">
 
 ---
-Full Stack Developer experienced in designing and developing microservices and back-end development. Proficient in database management and skilled in building front-end applications using JavaScript frameworks, with a strong focus on React.js. Experienced in working in cross-functional, agile teams.
+<p>Welcome to my page </br> 
+I am a Full-Stack from ![image](https://github.com/user-attachments/assets/4ec4be2b-69ad-4218-aed0-1ae0f441a4d7)
+</p>
+
 <!--
 **ArupkBiswas/ArupkBiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
