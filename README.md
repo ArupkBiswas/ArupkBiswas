@@ -2,7 +2,7 @@
 
 ---
 <p>Welcome to my page </br> 
-I am a Full-Stack from  <img src="https://tenor.com/view/india-flags-joypixels-flag-of-india-indian-flag-gif-17380574" width="30" height="30"/>
+I am a Full-Stack from  <img src="https://tenor.com/view/india-flags-joypixels-flag-of-india-indian-flag.gif" width="30" height="30"/>
 </p>
 
 <!--
