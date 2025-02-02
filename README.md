@@ -1,4 +1,4 @@
-### Hi, I'm Arup ![hd-gif](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif)
+### Hi, I'm Arup ![hd-gif] (https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif)
 ---
 Full Stack Developer experienced in designing and developing microservices and back-end development. Proficient in database management and skilled in building front-end applications using JavaScript frameworks, with a strong focus on React.js. Experienced in working in cross-functional, agile teams.
 <!--
