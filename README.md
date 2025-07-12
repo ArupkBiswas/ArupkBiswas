@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arup Biswas</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30" height="30" />, I'm Arup Biswas</h1>
 <h3 align="center">Software Engineer | Java & Full-Stack Developer | Cloud Enthusiast</h3>
 
 <p align="center">
@@ -9,13 +9,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working as a **Software Engineer 2 at Philips**
-- 🌱 I have **5+ years** of experience in full-stack development
+- 🔭 I’m currently working as a **Software Engineer at Grid Dynamics**
+- 🌱 I have **6 years** of experience in full-stack development
 - ⚙️ I specialize in **Java, Spring Boot, Angular/React.js, PostgreSQL, Oracle**
 - 🧠 Passionate about **microservices architecture, event-driven systems, cloud-native development**, and clean code
 - 💬 Ask me about **API design, multitenant apps, healthcare tech, and CI/CD**
 - 💡 I enjoy contributing to projects that solve real-world problems in **healthcare and enterprise applications**
-- 📫 Reach me at: **arupkbiswas.tech@gmail.com**
+- 📫 Reach me at: **arupkbiswas023@gmail.com**
 
 ---
 
@@ -25,6 +25,7 @@
 |----------------|--------------------|------------------|-------------------------|--------------------------|
 | Java, Spring Boot | React.js, Angular.js | PostgreSQL, Oracle | Apache Kafka, RabbitMQ | AWS, Jenkins, Docker     |
 | Hibernate/JPA   | JavaScript/TypeScript | MySQL             | Apache Camel           | Cloud Foundry, Git       |
+| Temporal        |
 
 ---
 
