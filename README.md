@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working as a **Software Engineer at Grid Dynamics**
-- 🌱 I have **6 years** of experience in full-stack development
+- 🌱 I have **7 years** of experience in full-stack development
 - ⚙️ I specialize in **Java, Spring Boot, Angular/React.js, PostgreSQL, Oracle**
 - 🧠 Passionate about **microservices architecture, event-driven systems, cloud-native development**, and clean code
 - 💬 Ask me about **API design, multitenant apps, healthcare tech, and CI/CD**
